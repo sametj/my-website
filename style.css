@@ -314,7 +314,7 @@ section {
     
 }
 
-/*  EXPERIENCE SECTION */
+/*  SKILLS SECTION */
 
 #skills {
     position: relative;
@@ -383,6 +383,27 @@ article .icon {
     border-color: rgb(163, 163, 163);
 }
 
+/* YOUTUBE SECTION */
+#youtube {
+    position: relative;
+}
+
+.youtube-container {
+    
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 2rem;
+}
+.youtube-video-container {
+    padding: 1.5rem;
+    flex: 0.5;
+    background: white;
+    border-radius: 2rem;
+    border: rgb(53, 53, 53) 0.1rem solid;
+    border-color: rgb(163, 163, 163);
+    text-align: center;
+}
 /* CONTACT SECTION */
 
 #contact {
