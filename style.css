@@ -387,9 +387,8 @@ article .icon {
 #youtube {
     position: relative;
 }
-
 .youtube-container {
-    
+    margin-top: 2rem;
     display: flex;
     justify-content: center;
     flex-direction: row;
@@ -397,7 +396,6 @@ article .icon {
 }
 .youtube-video-container {
     padding: 1.5rem;
-    flex: 0.5;
     background: white;
     border-radius: 2rem;
     border: rgb(53, 53, 53) 0.1rem solid;

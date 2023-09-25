@@ -6,6 +6,9 @@
     .about-containers {
         flex-wrap: wrap;
     }
+    .youtube-container {
+       flex-wrap: wrap;
+    }
     
 }
 
@@ -46,6 +49,11 @@
 
     .about-containers {
         margin-top: 0;
+    }
+    
+    iframe[src*="youtube"] {
+        width: 500px;
+        height: 400px
     }
     
 }
@@ -111,6 +119,10 @@
 
     .text-container {
         text-align: justify;
+    }
+    iframe[src*="youtube"] {
+        width: 300px;
+        height: 200px
     }
     
 }
