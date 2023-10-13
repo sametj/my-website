@@ -118,7 +118,7 @@
     }
 
     .text-container {
-        text-align: justify;
+        text-align: center;
     }
     iframe[src*="youtube"] {
         width: 300px;
