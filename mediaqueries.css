@@ -125,18 +125,16 @@
         height: 200px
     }
     .cards label {
-        width: 300px;
+        width: 220px;
     }
 
     .cards{
         margin-bottom: 300px;
     }
-    .cards .infos{
-        padding-top: 30;
-
-    }
+    
      .cards .infos .name{
-        font-size: 20px;
+        font-size: 25px;
+       color: #000;
      }
 
 }
