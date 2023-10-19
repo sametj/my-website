@@ -124,5 +124,8 @@
         width: 300px;
         height: 200px
     }
-    
+    .cards label {
+        width: 200px;
+    }
+
 }
