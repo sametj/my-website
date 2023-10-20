@@ -140,8 +140,11 @@
 }
 
 .cards label{
-    width: 200px;
+    width: 220px
 }
+.infos .name{
+    font-size: 15px;
+    letter-spacing: 2px;
     
 
 }
