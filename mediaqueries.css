@@ -60,6 +60,13 @@
      .container{
         padding: inherit;
     }
+    .cards{
+        margin-bottom: 300px;
+    }
+
+    .cards label{
+        width: 500px;
+    }
 }
 
 @media screen and (max-width: 600px) {
@@ -128,7 +135,13 @@
         width: 300px;
         height: 200px
     }
+.cards{
+    margin-bottom: 600px;
+}
 
+.cards label{
+    width: 190px;
+}
     
 
 }
