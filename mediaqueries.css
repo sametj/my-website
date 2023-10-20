@@ -129,9 +129,6 @@
         height: 200px
     }
 
-    .container{
-        padding: inherit;
-    }
     .cards label {
         width: 180px;
     }
@@ -144,7 +141,7 @@
         font-size: 25px;
        color: #000;
      }
-    
+
     
 
 }
