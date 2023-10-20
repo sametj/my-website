@@ -9,6 +9,7 @@
 
 body {
 font-family: 'Poppins', sans-serif; 
+
 --bccolor: bisque;
 background-color: var(--bccolor);
 }
@@ -28,7 +29,7 @@ p {
 
 a, 
 .btn {
-    transform: all 300ms ease;
+    transform: all 300ms ease;  
 }
 
 
@@ -494,7 +495,9 @@ article .icon {
     text-align: center;
  }
  
- 
+ input{
+    display: none;
+ }
 
 
  .container{
@@ -619,9 +622,7 @@ article .icon {
 
 }
 
-input{
-    display: none;
- }
+
 
 
 

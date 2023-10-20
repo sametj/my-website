@@ -56,18 +56,7 @@
         height: 400px
     }
 
-    .cards label {
-        width: fit-content;
-    }
-
-    .cards{
-        margin-bottom: 300px;
-    }
     
-     .cards .infos .name{
-        font-size: 25px;
-       color: #000;
-     }
      .container{
         padding: inherit;
     }
