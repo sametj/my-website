@@ -677,7 +677,7 @@ article .icon {
  #s5:checked ~ .cards #slide1{
 
     box-shadow: 0 20px 40px rgba(0, 0, 0, 45%);
-    transform: translate3d(35%,0,-120px);
+    transform: translate3d(35%,0,120px);
     --current-color1: #eceaed;
     --current-color2: #404457;
 
@@ -690,7 +690,7 @@ article .icon {
  #s5:checked ~ .cards #slide2{
 
     box-shadow: 0 15px 30px rgba(0, 0, 0, 45%);
-    transform: translate3d(70%,0,-220px);
+    transform: translate3d(70%,0,220px);
     --current-color1: #eceaed;
     --current-color2: #404457;
 
