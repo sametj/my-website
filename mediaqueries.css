@@ -55,6 +55,19 @@
         width: 500px;
         height: 400px
     }
+
+    .cards label {
+        width: fit-content;
+    }
+
+    .cards{
+        margin-bottom: 300px;
+    }
+    
+     .cards .infos .name{
+        font-size: 25px;
+       color: #000;
+     }
     
 }
 
@@ -125,7 +138,7 @@
         height: 200px
     }
     .cards label {
-        width: 220px;
+        width: 180px;
     }
 
     .cards{
@@ -136,5 +149,7 @@
         font-size: 25px;
        color: #000;
      }
+    
+    
 
 }

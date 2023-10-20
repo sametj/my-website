@@ -9,8 +9,6 @@
 
 body {
 font-family: 'Poppins', sans-serif; 
-justify-content: center;
-align-items: center;
 --bccolor: bisque;
 background-color: var(--bccolor);
 }
@@ -496,9 +494,7 @@ article .icon {
     text-align: center;
  }
  
- input{
-    display: none;
- }
+ 
 
 
  .container{
@@ -623,7 +619,9 @@ article .icon {
 
 }
 
-
+input{
+    display: none;
+ }
 
 
 
