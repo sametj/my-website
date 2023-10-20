@@ -68,7 +68,9 @@
         font-size: 25px;
        color: #000;
      }
-    
+     .container{
+        padding: inherit;
+    }
 }
 
 @media screen and (max-width: 600px) {
@@ -136,6 +138,10 @@
     iframe[src*="youtube"] {
         width: 300px;
         height: 200px
+    }
+
+    .container{
+        padding: inherit;
     }
     .cards label {
         width: 180px;
