@@ -585,9 +585,12 @@ article .icon {
 
 .card .infos{
         display: block;
-        text-align: end;
-        padding-top: 60px;
+        text-align: center;
+        padding-top: 30px;
 
+}
+.card .infos span{
+    display: block;
 }
 
 .infos .name{
