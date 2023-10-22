@@ -481,14 +481,7 @@ article .icon {
     display: block;
 }
 
-.infos .name{
-    font-size:30px ;
-    color:var(--current-color1);
-    letter-spacing: 8px;
-    margin-bottom:  20px;
-    padding-left: 25%;
-    transition: all .6s ease;
-}
+
 
 .card2 .lorem{
     font-size: 16px;
@@ -694,7 +687,7 @@ article .icon {
 .card .infos{
         display: block;
         text-align: center;
-        padding-top: 30px;
+        padding-top: 15px;
 
 }
 .card .infos span{
@@ -702,9 +695,9 @@ article .icon {
 }
 
 .infos .name{
-    font-size:30px ;
+    font-size:25px ;
     color:var(--current-color1);
-    letter-spacing: 8px;
+    letter-spacing: 4px;
     margin-bottom:  20px;
     padding-left: 25%;
     transition: all .6s ease;
@@ -776,7 +769,7 @@ article .icon {
 
     box-shadow: 0 25px 50px rgba(0, 0, 0, 50%);
     transform: translate3d(0,0,0);
-    --current-color1: #fad00c;
+    --current-color1: #100cfa;
     --current-color2: #eceaed;
 
  }
