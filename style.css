@@ -496,6 +496,20 @@ article .icon {
     padding-top: 20px;
 }
 
+.card2 .btn-container{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.card2 .btn {
+    font-weight: 600;
+    transition: all 300ms ease;
+    padding: 1rem;
+    width: 8rem;
+    border-radius: 2rem;
+}
+
 .actions i{
     font-size: 24px;
     transition: all .6s ease;   

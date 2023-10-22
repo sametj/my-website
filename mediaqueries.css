@@ -9,6 +9,9 @@
     .youtube-container {
        flex-wrap: wrap;
     }
+    .cards2{
+        margin-bottom: 550px;
+    }
     
 }
 
@@ -67,9 +70,9 @@
     .cards label{
         width: 500px;
     }
-    #youtube{
-        padding-top: 450px;
-     }
+  #container2{
+    
+  }
 }
 
 @media screen and (max-width: 600px) {
@@ -156,20 +159,19 @@
 
  }
 
- #youtube{
-    padding-top: 400px;
- }
+
     
  .cards2 .card2{
     position: relative;
     height: 400px;
     background-color:wheat;
     border-radius: 5px;
-    padding: 1px 20px;
+    padding: 30px 45px;
 
  }
  .cards2 label{
-    width: 320px
+    width: 320px;
+   
 }
 
 }
