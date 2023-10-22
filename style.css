@@ -518,8 +518,8 @@ article .icon {
 
     box-shadow: 0 15px 30px rgba(0, 0, 0, 45%);
     transform: translate3d(-35%,0,-120px);
-    --current-color1: #eceaed;
-    --current-color2: #404457;
+    --current-color1: #000000;
+    --current-color2: #ffffff;
 
  }
 
@@ -529,8 +529,8 @@ article .icon {
 
     box-shadow: 0 20px 40px rgba(0, 0, 0, 45%);
     transform: translate3d(0,0,0);
-    --current-color1: #eceaed;
-    --current-color2: #404457;
+    --current-color1: #f71109;
+    --current-color2: #000000;
 
  }
 
@@ -540,8 +540,8 @@ article .icon {
 
     box-shadow: 0 25px 50px rgba(0, 0, 0, 50%);
     transform: translate3d(35%,0,-120px);
-    --current-color1: #fad00c;
-    --current-color2: #eceaed;
+    --current-color1: #070607;
+    --current-color2: #ffffff;
 
  }
 
