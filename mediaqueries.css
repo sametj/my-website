@@ -67,7 +67,9 @@
     .cards label{
         width: 500px;
     }
-    
+    #youtube{
+        padding-top: 400px;
+     }
 }
 
 @media screen and (max-width: 600px) {
